@@ -18,9 +18,9 @@
 
 ### Connect with Me :
 <p align="left" dir="auto">
-  <a href="https://www.linkedin.com/in/alimostafazaki/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaayasser741" height="30" width="40" style="max-width: 100%;"></a>
-  <a href="https://twitter.com/AliZaki4942" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaayasser741" height="30" width="40" style="max-width: 100%;"></a>
-  <a href="https://www.facebook.com/AliMostafaZaki" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaayasser741" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/alimostafazaki/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Zaki" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://twitter.com/AliMostafaZaki" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ali Zaki" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://www.facebook.com/AliMostafaZaki" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ali Zaki" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -30,8 +30,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliZaki4942&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliMostafaZaki&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=AliZaki4942&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AliZaki4942&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=AliMostafaZaki&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=AliMostafaZaki&style=for-the-badge">
 </a>
