@@ -15,6 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, NodeJS, Express and MongoDB, or anything related to backend development.
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64419c14e272577374936be2?variant=dark" alt="roadmap.sh"/></a>
 
 ### Connect with Me :
 <p align="left" dir="auto">
