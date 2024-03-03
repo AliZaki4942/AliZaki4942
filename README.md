@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, NodeJS, Express and MongoDB, or anything related to backend development.
+- 💬 Ask me about my experience with TypeScript, NodeJS, Express and MongoDB, or anything related to backend development.
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64419c14e272577374936be2?variant=dark" alt="roadmap.sh"/></a>
 
@@ -25,11 +25,10 @@
 </p>
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliMostafaZaki&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
