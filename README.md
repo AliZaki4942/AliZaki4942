@@ -24,8 +24,6 @@
   <a><img src="https://komarev.com/ghpvc/?username=AliMostafaZaki"></a>
 </p>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64419c14e272577374936be2?variant=dark" alt="roadmap.sh"/></a>
-
 ### 🛠 &nbsp;Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
@@ -33,3 +31,5 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliMostafaZaki&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64419c14e272577374936be2?variant=dark" alt="roadmap.sh"/></a>
