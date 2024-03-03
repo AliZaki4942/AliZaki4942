@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with TypeScript, NodeJS, Express and MongoDB, or anything related to backend development.
 
-### Connect with Me :
+### Connect with Me
 <p align="left" dir="auto">
   <a href="https://www.linkedin.com/in/alimostafazaki/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Zaki" height="30" width="40" style="max-width: 100%;"></a>
   <a href="https://wa.me/+201030044323" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Ali Zaki" height="30" width="40" style="max-width: 100%;"></a>
