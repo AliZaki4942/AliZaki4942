@@ -20,6 +20,8 @@
   <a href="https://www.linkedin.com/in/alimostafazaki/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Zaki" height="30" width="40" style="max-width: 100%;"></a>
   <a href="https://wa.me/+201030044323" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Ali Zaki" height="30" width="40" style="max-width: 100%;"></a>
   <a href="https://www.facebook.com/AliMostafaZaki" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ali Zaki" height="30" width="40" style="max-width: 100%;"></a>
+  <br><br>
+  <a><img src="https://komarev.com/ghpvc/?username=AliMostafaZaki"></a>
 </p>
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64419c14e272577374936be2?variant=dark" alt="roadmap.sh"/></a>
@@ -31,5 +33,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliMostafaZaki&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
-<br><a><img src="https://komarev.com/ghpvc/?username=AliMostafaZaki&style=for-the-badge"></a>
